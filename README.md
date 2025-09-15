@@ -1,6 +1,12 @@
 ### Olá, mundo! 👋
 
-Sou Nathan, um aprendiz de dev apaixonado por programar e compartilhar conhecimento, estou sempre em busca de novos desafios e oportunidades.
+Olá! Sou o Nathan, Desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas. 
+
+Tenho experiência na construção de aplicações de ponta a ponta com o ecossistema JavaScript (React, Node.js) e um grande interesse em criar soluções robustas e eficientes.
+
+Para complementar minha formação, estou mergulhando no universo da Inteligência Artificial e Python, buscando unir o desenvolvimento de software com o poder dos dados. Acredito que essa combinação é o futuro para criar produtos mais inteligentes.
+
+Estou em busca de uma oportunidade júnior onde possa aplicar minhas habilidades de desenvolvimento e crescer em um ambiente desafiador.
 
 ## Para me encontrar:
 
