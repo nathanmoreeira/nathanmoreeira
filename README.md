@@ -1,6 +1,6 @@
 ### Olá, mundo! 👋
 
-Olá! Sou o Nathan, Desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas. 
+Sou o Nathan, Desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas. 
 
 Tenho experiência na construção de aplicações de ponta a ponta com o ecossistema JavaScript (React, Node.js) e um grande interesse em criar soluções robustas e eficientes.
 
