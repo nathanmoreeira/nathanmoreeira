@@ -1,27 +1,26 @@
-### Olá, mundo! 👋
+### Olá, sou o Nathan! 👋
 
-Sou o Nathan, Desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas. 
+**Desenvolvedor Fullstack** focado em construir aplicações web escaláveis e soluções de automação de dados.
 
-Tenho experiência na construção de aplicações de ponta a ponta com o ecossistema JavaScript (React, Node.js) e um grande interesse em criar soluções robustas e eficientes.
+Combino a agilidade do ecossistema **JavaScript (React, Node.js)** com o poder analítico do **Python** para criar software que resolve problemas reais de negócio.
 
-Para complementar minha formação, estou mergulhando no universo da Inteligência Artificial e Python, buscando unir o desenvolvimento de software com o poder dos dados. Acredito que essa combinação é o futuro para criar produtos mais inteligentes.
-
-Estou em busca de uma oportunidade júnior onde possa aplicar minhas habilidades de desenvolvimento e crescer em um ambiente desafiador.
+* 🔭 **Atualmente focado em:** Arquitetura de Software, Migração para TypeScript e Engenharia de Dados.
+* 💼 **Objetivo:** Atuar como Desenvolvedor Júnior ou Estagiário em times de alta performance.
 
 ## Para me encontrar:
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathanmoreeira)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmoreira23/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmoreira23)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctt.nathanmoreira@gmail.com)
 
 ### Hard Skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgre](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
